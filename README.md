@@ -20,7 +20,7 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
   <td><img src="https://img.shields.io/badge/Python-Expert-green" alt="Python Icon"> Python - Expert</td>
 </tr>
 <tr>
-  <td><img src="https://img.shields.io/badge/Deep_Learning-Expert-green" alt="Deep Learning Icon"> Deep Learning - Expert</td>
+  <td><img src="https://img.shields.io/badge/Deep_Learning-Expert-green" alt="Machine Learning Icon"> Machine Learning - Expert</td>
   <td><img src="https://img.shields.io/badge/Pandas-Proficient-blue" alt="Pandas Icon"> Pandas - Proficient</td>
 </tr>
 <tr>
@@ -32,7 +32,7 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
   <td><img src="https://img.shields.io/badge/PyTorch-Proficient-blue" alt="PyTorch Icon"> PyTorch - Proficient</td>
 </tr>
 <tr>
-  <td><img src="https://img.shields.io/badge/Keras-Proficient-blue" alt="Keras Icon"> Keras - Proficient</td>
+  <td><img src="https://img.shields.io/badge/Keras-Proficient-blue" alt="VHDL Icon"> VHDL - Proficient</td>
   <td><img src="https://img.shields.io/badge/scikit_learn-Proficient-blue" alt="scikit-learn Icon"> scikit-learn - Proficient</td>
 </tr>
 <tr>
@@ -45,10 +45,10 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
 ### 📊 GitHub Stats
 ##
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=samresume&show_icons=true&theme=light" alt="Sam's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=erfanresume&show_icons=true&theme=light" alt="Erfan's GitHub Stats">
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samresume&layout=compact&theme=light" alt="Sam's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanresume&layout=compact&theme=light" alt="Erfan's Top Languages">
 </p>
 
 
@@ -56,6 +56,6 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
 ##
 Feel free to connect with me or follow my research and projects here on GitHub!
 <p align="left">
-  <h3><a href="https://linkedin.com/in/samresume">LinkedIn</a></h3>
+  <h3><a href="https://linkedin.com/in/erfanmoghadam">LinkedIn</a></h3>
 </p>
 
