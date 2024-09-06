@@ -1,4 +1,4 @@
-## MohammadReza (Sam) EskandariNasab
+## Erfan Moghadam
 
 <p align="center">
   <img src="https://github.com/samresume/samresume/blob/main/wallpaper.jpg" alt="Sam EskandariNasab">
@@ -7,9 +7,9 @@
 
 ### 👨‍🎓 About Me
 ##
-Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State University**, where I am fortunate to be supervised by **Dr. Shah Muhammad Hamdi**. My research focuses on **Generative Models, Data Augmentation, Time Series Analysis**, and **Deep Learning**.
+Hello! I’m **Erfan**, a MSc student in Computer Science at **Kharazmi University of Tehran(Tarbiat Moalem)**, where I am fortunate to be supervised by **Dr. Amir Asghari Tochaie**. My research focuses on **Vehicular Ad-Hoc Networks, Internet of Vehicle, Graph Neural Networks, Fuzzy Inference Systems**, and **Machine Learning**.
 
-I am best described as dedicated, disciplined, and hard-working. My aim is to develop innovative solutions that enhance the capabilities of data-driven technologies.
+I am best described as dedicated, disciplined, and hard-working. My aim is to develop innovative solutions that enhance the capabilities of routing and clustering in VANET.
 
 
 ### 💻 Technical Proficiency
