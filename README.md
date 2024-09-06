@@ -20,7 +20,7 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
   <td><img src="https://img.shields.io/badge/Python-Expert-green" alt="Python Icon"> Python - Expert</td>
 </tr>
 <tr>
-  <td><img src="https://img.shields.io/badge/Deep_Learning-Expert-green" alt="Neural Network Icon"> Neural Network - Expert</td>
+  <td><img src="https://img.shields.io/badge/Neural_Network-Expert-green" alt="Neural Network Icon"> Neural Network - Expert</td>
   <td><img src="https://img.shields.io/badge/Pandas-Proficient-blue" alt="Pandas Icon"> Pandas - Proficient</td>
 </tr>
 <tr>
@@ -32,7 +32,7 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
   <td><img src="https://img.shields.io/badge/PyTorch-Proficient-blue" alt="PyTorch Icon"> PyTorch - Proficient</td>
 </tr>
 <tr>
-  <td><img src="https://img.shields.io/badge/Keras-Proficient-blue" alt="VHDL Icon"> VHDL - Proficient</td>
+  <td><img src="https://img.shields.io/badge/VHDL-Proficient-blue" alt="VHDL Icon"> VHDL - Proficient</td>
   <td><img src="https://img.shields.io/badge/scikit_learn-Proficient-blue" alt="scikit-learn Icon"> scikit-learn - Proficient</td>
 </tr>
 <tr>
