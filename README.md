@@ -20,7 +20,7 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
   <td><img src="https://img.shields.io/badge/Python-Expert-green" alt="Python Icon"> Python - Expert</td>
 </tr>
 <tr>
-  <td><img src="https://img.shields.io/badge/Deep_Learning-Expert-green" alt="Machine Learning Icon"> Machine Learning - Expert</td>
+  <td><img src="https://img.shields.io/badge/Deep_Learning-Expert-green" alt="Neural Network Icon"> Neural Network - Expert</td>
   <td><img src="https://img.shields.io/badge/Pandas-Proficient-blue" alt="Pandas Icon"> Pandas - Proficient</td>
 </tr>
 <tr>
