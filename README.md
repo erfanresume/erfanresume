@@ -16,8 +16,12 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
 ##
 <table>
 <tr>
+  <td><img src="https://img.shields.io/badge/Computer_Architecture-Expert-green" alt="Computer Architecture Icon"> Computer Architecture - Expert</td>
+  <td><img src="https://img.shields.io/badge/VHDL-Proficient-blue" alt="VHDL Icon"> VHDL - Proficient</td>
+</tr>
+<tr>
   <td><img src="https://img.shields.io/badge/Machine_Learning-Expert-green" alt="Machine Learning Icon"> Machine Learning - Expert</td>
-  <td><img src="https://img.shields.io/badge/Python-Expert-green" alt="Python Icon"> Python - Expert</td>
+  <td><img src="https://img.shields.io/badge/scikit_learn-Proficient-blue" alt="scikit-learn Icon"> scikit-learn - Proficient</td>
 </tr>
 <tr>
   <td><img src="https://img.shields.io/badge/Neural_Network-Expert-green" alt="Neural Network Icon"> Neural Network - Expert</td>
@@ -28,15 +32,17 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
   <td><img src="https://img.shields.io/badge/Numpy-Proficient-blue" alt="Numpy Icon"> Numpy - Proficient</td>
 </tr>
 <tr>
-  <td><img src="https://img.shields.io/badge/SQL-Expert-green" alt="SQL Icon"> SQL - Expert</td>
+  <td><img src="https://img.shields.io/badge/Software-Expert-green" alt="Software Icon"> Software - Expert</td>
   <td><img src="https://img.shields.io/badge/PyTorch-Proficient-blue" alt="PyTorch Icon"> PyTorch - Proficient</td>
+  
 </tr>
 <tr>
-  <td><img src="https://img.shields.io/badge/VHDL-Proficient-blue" alt="VHDL Icon"> VHDL - Proficient</td>
-  <td><img src="https://img.shields.io/badge/scikit_learn-Proficient-blue" alt="scikit-learn Icon"> scikit-learn - Proficient</td>
+  <td><img src="https://img.shields.io/badge/SQL-Expert-green" alt="SQL Icon"> SQL - Expert</td>
+  <td><img src="https://img.shields.io/badge/Python-Proficient-blue" alt="Python Icon"> Python - Proficient</td>
 </tr>
 <tr>
   <td><img src="https://img.shields.io/badge/Matplotlib_%26_Seaborn-Proficient-blue" alt="Matplotlib & Seaborn Icon"> Matplotlib & Seaborn - Proficient</td>
+  <td><img src="https://img.shields.io/badge/SUMO-Proficient-blue" alt="SUMO Icon"> Simulation of Urban MObility - Proficient</td>
   <td></td>
 </tr>
 </table>
