@@ -1,7 +1,7 @@
 ## Erfan Moghadam
 
 <p align="center">
-  <img src="https://github.com/samresume/samresume/blob/main/wallpaper.jpg" alt="Sam EskandariNasab">
+  <img src="https://github.com/erfanresume/erfanresume/blob/main/wallpaper.jpg" alt="Erfan Moghadam">
 </p>
 
 
