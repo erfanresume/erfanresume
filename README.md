@@ -17,7 +17,7 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
 <table>
 <tr>
   <td><img src="https://img.shields.io/badge/Computer_Architecture-Expert-green" alt="Computer Architecture Icon"> Computer Architecture - Expert</td>
-  <td><img src="https://img.shields.io/badge/VHDL-Proficient-blue" alt="VHDL Icon"> VHDL - Proficient</td>
+  <td><img src="https://img.shields.io/badge/VHDL-Verilog-Proficient-blue" alt="VHDL and Verilog Icon"> VHDL & Verilog - Proficient</td>
 </tr>
 <tr>
   <td><img src="https://img.shields.io/badge/Machine_Learning-Expert-green" alt="Machine Learning Icon"> Machine Learning - Expert</td>
