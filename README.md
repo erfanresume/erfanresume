@@ -17,7 +17,7 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
 <table>
 <tr>
   <td><img src="https://img.shields.io/badge/Computer_Architecture-Expert-green" alt="Computer Architecture Icon"> Computer Architecture - Expert</td>
-  <td><img src="https://img.shields.io/badge/VHDL-Verilog-Proficient-blue" alt="VHDL and Verilog Icon"> VHDL & Verilog - Proficient</td>
+  <td><img src="https://img.shields.io/badge/VHDL_&_Verilog-Proficient-blue" alt="VHDL & Verilog"> VHDL & Verilog - Proficient</td>
 </tr>
 <tr>
   <td><img src="https://img.shields.io/badge/Machine_Learning-Expert-green" alt="Machine Learning Icon"> Machine Learning - Expert</td>
@@ -34,7 +34,6 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
 <tr>
   <td><img src="https://img.shields.io/badge/Software-Expert-green" alt="Software Icon"> Software - Expert</td>
   <td><img src="https://img.shields.io/badge/PyTorch-Proficient-blue" alt="PyTorch Icon"> PyTorch - Proficient</td>
-  
 </tr>
 <tr>
   <td><img src="https://img.shields.io/badge/SQL-Expert-green" alt="SQL Icon"> SQL - Expert</td>
