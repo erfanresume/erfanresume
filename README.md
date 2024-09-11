@@ -42,7 +42,6 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
 <tr>
   <td><img src="https://img.shields.io/badge/Matplotlib_%26_Seaborn-Proficient-blue" alt="Matplotlib & Seaborn Icon"> Matplotlib & Seaborn - Proficient</td>
   <td><img src="https://img.shields.io/badge/SUMO-Proficient-blue" alt="SUMO Icon"> Simulation of Urban MObility - Proficient</td>
-  <td></td>
 </tr>
 </table>
 
