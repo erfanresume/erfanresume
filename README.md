@@ -7,7 +7,7 @@
 
 ### 👨‍🎓 About Me
 ##
-Hello! I’m **Erfan**, a MSc. student in Computer Science at **Kharazmi University of Tehran (Tehran Tarbiat Moallem)**, where I am fortunate to be supervised by **Dr. Seyyed Amir Asghari**. My research focuses on **Vehicular Ad-Hoc Networks, Internet of Vehicle, Graph Neural Networks, Fuzzy Inference Systems**, and **Machine Learning**.
+Hello! I’m **Erfan**, a MSc. student in Computer Science at **Kharazmi University of Tehran (Tehran Tarbiat Moallem)**, where I am fortunate to be supervised by **Dr. Seyyed Amir Asghari**. My research focuses on **Vehicular Ad-Hoc Networks, Internet of Vehicle, Computer Vision**, and **Machine Learning**.
 
 I am best described as dedicated, disciplined, and hard-working. My aim is to develop innovative solutions that enhance the capabilities of routing and clustering in VANET.
 
