@@ -20,15 +20,15 @@
 <p align="center">
 
 <a href="https://erfanresume.github.io">
-<img src="https://img.shields.io/badge/Website-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/🌐%20Website-0F172A?style=for-the-badge">
 </a>
 
 <a href="https://scholar.google.com/citations?user=YOUR_ID">
-<img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
+<img src="https://img.shields.io/badge/📚%20Google%20Scholar-1E40AF?style=for-the-badge">
 </a>
 
 <a href="https://linkedin.com/in/erfanmoghadam">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-0369A1?style=for-the-badge">
 </a>
 
 </p>
