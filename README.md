@@ -1,4 +1,4 @@
-## Erfan Moghadam
+<!--## Erfan Moghadam
 
 <p align="center">
   <img src="https://github.com/erfanresume/erfanresume/blob/main/Wallpaper.jpg" alt="Erfan Moghadam">
@@ -62,4 +62,124 @@ Feel free to connect with me or follow my research and projects here on GitHub!
 <p align="left">
   <h3><a href="https://linkedin.com/in/erfanmoghadam">LinkedIn</a></h3>
 </p>
+-->
+# Hi, I'm Erfan Moghadam 👋
+
+<p align="center">
+  <img src="https://github.com/erfanresume/erfanresume/blob/main/Wallpaper.jpg" width="100%" alt="Erfan Moghadam">
+</p>
+
+<p align="center">
+  <b>Research Assistant @ University of Tehran</b><br>
+  Artificial Intelligence | Machine Learning | Intelligent Transportation Systems | Autonomous Systems
+</p>
+
+---
+
+## 👨‍🎓 About Me
+
+I am a **M.Sc. graduate in Computer Engineering** from **Kharazmi University, Tehran**, where I ranked **1st in my cohort with a GPA of 4.0/4.0**.
+
+Currently, I am a **Research Assistant at the University of Tehran**, working on **Artificial Intelligence and Machine Learning applications in Intelligent Transportation Systems (ITS)**, with a focus on:
+
+- 🚗 Vehicular Ad Hoc Networks (VANETs)
+- 🌐 Internet of Vehicles (IoV)
+- 🤖 Machine Learning and Deep Learning
+- 🚘 Autonomous Driving
+- 📡 Computer Networks and Edge Intelligence
+
+My research goal is to design intelligent and reliable systems that improve the performance, stability, and safety of future autonomous transportation networks.
+
+---
+
+## 🔬 Research Interests
+
+- Artificial Intelligence for Intelligent Transportation Systems
+- Machine Learning-based VANET Optimization
+- Deep Reinforcement Learning
+- Autonomous Vehicles
+- Edge Computing and 5G Networks
+- Natural Language Processing
+- Computer Vision
+
+---
+
+## 📚 Selected Publications
+
+**Machine Learning-Driven Load Balancing in Edge and 5G Networks: A Comprehensive Survey**  
+*IEEE Open Journal of the Communications Society*
+
+**IMICLiVAN: An Improved Method to Increase Cluster Lifetime in Vehicular Ad Hoc Networks**  
+*Vehicular Networks / Intelligent Transportation Systems*
+
+---
+
+## 💻 Technical Skills
+
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat)
+
+### AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+### Simulation & Networking
+![SUMO](https://img.shields.io/badge/SUMO-Simulation-green)
+![OMNeT++](https://img.shields.io/badge/OMNeT++-Simulation-blue)
+![Veins](https://img.shields.io/badge/Veins-VANET-purple)
+
+### Hardware & Architecture
+- Computer Architecture
+- VHDL / Verilog
+- Digital Systems Design
+
+---
+
+## 🧪 Research Projects
+
+### Intelligent Clustering in Vehicular Networks
+
+Developing machine learning-based clustering mechanisms for VANETs to improve:
+
+- Cluster stability
+- Communication reliability
+- Packet Delivery Ratio (PDR)
+- Network performance
+
+Tools:
+`Veins` `OMNeT++` `SUMO` `Python`
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=erfanresume&show_icons=true&theme=light" height="160">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanresume&layout=compact&theme=light" height="160">
+</p>
+
+---
+
+## 🌐 Academic Profiles
+
+<p align="left">
+
+<a href="https://erfanresume.github.io">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/erfanmoghadam">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
+
+---
+
+## 📫 Contact
+
+Feel free to reach out for research collaborations and academic discussions.
 
