@@ -62,7 +62,7 @@ Feel free to connect with me or follow my research and projects here on GitHub!
 <p align="left">
   <h3><a href="https://linkedin.com/in/erfanmoghadam">LinkedIn</a></h3>
 </p>
--->
+
 # Hi, I'm Erfan Moghadam 👋
 
 <p align="center">
@@ -182,4 +182,238 @@ Tools:
 ## 📫 Contact
 
 Feel free to reach out for research collaborations and academic discussions.
+-->
+<h1 align="center">
+  Hi, I'm Erfan Moghadam 👋
+</h1>
+
+<h3 align="center">
+Artificial Intelligence & Intelligent Transportation Systems Researcher
+</h3>
+
+<p align="center">
+  <img src="https://github.com/erfanresume/erfanresume/blob/main/Wallpaper.jpg" width="100%" alt="Erfan Moghadam">
+</p>
+
+<p align="center">
+  <a href="https://erfanresume.github.io">
+    <img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=googlechrome">
+  </a>
+  <a href="https://linkedin.com/in/erfanmoghadam">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+
+---
+
+## 👨‍🎓 About Me
+
+I am a **Computer Engineering researcher** working at the intersection of **Artificial Intelligence, Machine Learning, and Intelligent Transportation Systems**.
+
+I completed my **M.Sc. in Computer Engineering at Kharazmi University, Tehran**, where I ranked **1st in my cohort with a GPA of 4.0/4.0**.
+
+Currently, I am a **Research Assistant at the University of Tehran**, focusing on developing intelligent solutions for next-generation transportation and communication systems.
+
+My research interests include:
+
+- 🚗 Intelligent Transportation Systems (ITS)
+- 🌐 Vehicular Ad Hoc Networks (VANETs) & Internet of Vehicles (IoV)
+- 🤖 Machine Learning & Deep Learning
+- 🚘 Autonomous Driving Systems
+- 📡 Edge Intelligence and Computer Networks
+- 🧠 Natural Language Processing and Computer Vision
+
+
+---
+
+# 🔬 Research Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚗 Intelligent Transportation Systems
+
+- AI-driven VANET optimization
+- Vehicle clustering algorithms
+- Autonomous vehicle communication
+- Network stability improvement
+
+</td>
+
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+
+- Machine Learning
+- Deep Learning
+- Reinforcement Learning
+- Data-driven intelligent systems
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Computer Networks
+
+- Edge Computing
+- 5G Networks
+- Load Balancing
+- Network Optimization
+
+</td>
+
+<td width="50%">
+
+### 🧠 AI Applications
+
+- Computer Vision
+- Natural Language Processing
+- Healthcare AI
+
+</td>
+</tr>
+</table>
+
+
+---
+
+# 📚 Selected Publications
+
+### 📄 Machine Learning-Driven Load Balancing in Edge and 5G Networks: A Comprehensive Survey
+
+**IEEE Open Journal of the Communications Society**
+
+Research areas:
+`Machine Learning` · `Edge Computing` · `5G Networks` · `Load Balancing`
+
+
+---
+
+### 📄 IMICLiVAN: An Improved Method to Increase Cluster Lifetime in Vehicular Ad Hoc Networks
+
+Research areas:
+
+`VANET` · `Intelligent Transportation Systems` · `Network Optimization`
+
+
+---
+
+# 🧪 Featured Research Project
+
+
+## 🚗 AI-based Vehicle Clustering Framework for VANETs
+
+Developing machine learning-based clustering mechanisms to improve:
+
+- Cluster lifetime
+- Communication stability
+- Packet Delivery Ratio (PDR)
+- Network performance
+
+**Technologies:**
+
+`Python` · `SUMO` · `Veins` · `OMNeT++` · `Machine Learning`
+
+
+---
+
+# 🛠 Technical Skills
+
+
+## Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/MATLAB-orange?style=flat">
+</p>
+
+
+## AI & Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white">
+</p>
+
+
+## Simulation & Networking
+
+<p>
+<img src="https://img.shields.io/badge/SUMO-Simulation-green">
+<img src="https://img.shields.io/badge/Veins-VANET-purple">
+<img src="https://img.shields.io/badge/OMNeT++-Simulation-blue">
+</p>
+
+
+## Hardware & Systems
+
+- Computer Architecture
+- Digital Logic Design
+- VHDL / Verilog
+
+
+---
+
+# 👨‍🏫 Teaching Experience
+
+Teaching Assistant experience in:
+
+- Advanced Computer Networks
+- Advanced Operating Systems
+- Interconnection Networks
+- Natural Language Processing
+- Programming Languages Design
+
+
+---
+
+# 📊 GitHub Statistics
+
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=erfanresume&show_icons=true&theme=light&hide_border=true">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanresume&layout=compact&theme=light&hide_border=true">
+
+</p>
+
+
+---
+
+# 🌐 Academic Profiles
+
+
+<p>
+
+<a href="https://erfanresume.github.io">
+Website
+</a>
+
+&nbsp; | &nbsp;
+
+<a href="https://linkedin.com/in/erfanmoghadam">
+LinkedIn
+</a>
+
+&nbsp; | &nbsp;
+
+Google Scholar
+
+</p>
+
+
+---
+
+# 📫 Contact
+
+I am always interested in research collaborations and discussions related to:
+
+**Artificial Intelligence · Autonomous Systems · Intelligent Transportation · Computer Networks**
 
