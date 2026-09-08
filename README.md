@@ -231,7 +231,7 @@ Teaching Assistant experience in:
 # 🐍 Contribution Activity
 
 
-<img src="https://raw.githubusercontent.com/erfanresume/erfanresume/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/erfanresume/erfanresume/gh-pages/github-contribution-grid-snake.svg">
 
 
 ---
