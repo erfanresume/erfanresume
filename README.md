@@ -251,31 +251,23 @@ Teaching Assistant experience in:
 
 ---
 
-# 🌐 Academic Profiles
-
+<h2>🌐 Academic Profiles</h2>
 
 <p align="center">
 
 <a href="https://erfanresume.github.io">
-Website
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
-&nbsp; • &nbsp;
-
-<a href="https://scholar.google.com/citations?user=YOUR_ID">
-Google Scholar
+<a href="YOUR_GOOGLE_SCHOLAR_LINK">
+<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
 </a>
-
-&nbsp; • &nbsp;
 
 <a href="https://linkedin.com/in/erfanmoghadam">
-LinkedIn
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </p>
-
-
----
 
 <p align="center">
 
