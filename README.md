@@ -60,63 +60,27 @@ My research interests include:
 
 # 🔬 Research Interests
 
+<p align="center">
 
-<table>
-<tr>
+🚗 **Intelligent Transportation Systems**  
+VANETs · IoV · Autonomous Vehicles · Smart Mobility
 
-<td width="50%">
+<br><br>
 
-### 🚗 Intelligent Transportation Systems
+🤖 **Artificial Intelligence**  
+Machine Learning · Deep Learning · Reinforcement Learning
 
-- AI-based vehicle clustering
-- VANET optimization
-- Autonomous vehicle communication
-- Network stability improvement
+<br><br>
 
-</td>
+🌐 **Intelligent Networks**  
+Edge Computing · 5G/6G Networks · Network Optimization
 
+<br><br>
 
-<td width="50%">
+🧠 **AI Applications**  
+Computer Vision · NLP · Healthcare Analytics
 
-### 🤖 Artificial Intelligence
-
-- Machine Learning
-- Deep Learning
-- Reinforcement Learning
-- Data-driven intelligent systems
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td width="50%">
-
-### 🌐 Computer Networks
-
-- Edge Computing
-- 5G Networks
-- Load Balancing
-- Network Optimization
-
-</td>
-
-
-<td width="50%">
-
-### 🧠 AI Applications
-
-- Computer Vision
-- NLP
-- Healthcare AI
-
-</td>
-
-</tr>
-
-</table>
+</p>
 
 
 ---
