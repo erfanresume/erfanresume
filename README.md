@@ -234,14 +234,8 @@ Teaching Assistant experience in:
 
 
 <p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=erfanresume&show_icons=true&theme=light&hide_border=true">
-
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanresume&layout=compact&theme=light&hide_border=true">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=erfanresume&show_icons=true&hide_border=true&theme=transparent" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanresume&layout=compact&hide_border=true&theme=transparent" height="170">
 </p>
 
 
