@@ -125,11 +125,11 @@ Topics:
 <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
-<a href="YOUR_GOOGLE_SCHOLAR_LINK">
+<a href="https://scholar.google.com/citations?user=pCxzPfQAAAAJ&hl=en">
 <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
 </a>
 
-<a href="https://linkedin.com/in/erfanmoghadam">
+<a href="https://www.linkedin.com/in/erfanresume/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
